@@ -90,6 +90,9 @@ body {
 .button-container {
     width: 300px;
     justify-content: center;
+    display: flex;
+    gap: 2em;
+    flex-direction: row;
 }
 
 /* Estilos de entrada de texto */
@@ -143,7 +146,7 @@ ul {
 }
 
 /* Botón de sortear título */
-.button-draw {
+.button-draw, .button-reload {
     display: flex;
     align-items: center;
     width: 100%;
@@ -157,6 +160,19 @@ ul {
     margin-right: 40px;
 }
 
-.button-draw:hover {
+.button-draw:hover, .button-reload:hover {
     background-color: var(--color-button-hover);
 }
+
+.button-reload img {
+    max-height: 40px;
+    margin-right: 40px;
+    filter: invert();
+}
+
+
+
+
+
+
+

@@ -28,3 +28,8 @@ function sortearAmigo() {
     amigoEscogido.innerHTML = "<li>El amigo secreto sorteado es: " + amigoSorteado;
 }
 
+
+function reiniciar() {
+    amigoEscogido.innerHTML = "";
+}
+
