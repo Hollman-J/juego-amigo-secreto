@@ -31,5 +31,6 @@ function sortearAmigo() {
 
 function reiniciar() {
     amigoEscogido.innerHTML = "";
+    amigos_ingresados = [];
 }
 
