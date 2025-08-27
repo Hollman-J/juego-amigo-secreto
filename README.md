@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  [![Estado](https://img.shields.io/badge/Estado-Finalizado-yellow)](https://github.com/hollman-J/juego-amigo-secreto)
-  [![Licencia](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+  <img src="https://img.shields.io/badge/Estado-Finalizado-yellow" alt="Estado finalizado del proyecto">
+  <img src="https://img.shields.io/badge/License-MIT-blue" alt="Licensia MIT">
 </p>
 
 ---
@@ -64,8 +64,6 @@ A continuación puedes ver cómo se agregan los nombres y se realiza el sorteo:
 <p align="center">
   <img src="./assets/reiniciar.png" alt="reiniciar">
 </p>
-
-*(Reemplaza las rutas con tus archivos reales; también puedes usar GIF o enlaces a videos hospedados en YouTube o GitHub)*
 
 ---
 
